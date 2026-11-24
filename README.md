@@ -11,6 +11,7 @@
 | ZSY949 | `ZSY949.jpg` | 2048×2048 |
 | ZSY950 | `ZSY950.jpg` | 2048×2048 |
 | ZSY951 | `ZSY951.jpg` | 2048×2048 |
+| ZSY956 | `ZSY956.jpg` | 2048×2048 |
 | ZSY958 | `ZSY958.jpg` | 2048×2048 |
 
 完整的公开访问链接见 `SIZE_CHART_URLS.csv`。
